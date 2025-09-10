@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package com.l33t_c0d3r_66.notepad;
 
 import java.awt.print.PrinterJob;
