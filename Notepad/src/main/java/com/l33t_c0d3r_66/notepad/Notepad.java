@@ -1,5 +1,3 @@
-
-
 package com.l33t_c0d3r_66.notepad;
 
 import java.awt.print.PrinterJob;
